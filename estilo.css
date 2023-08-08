@@ -1,0 +1,18 @@
+h1{
+    position: absolute;
+    width: 340px;
+    left: 340px;
+    top: 27px;
+}
+.cabec{
+
+}
+.cabec-img{
+    width: 240px;
+}
+.cabec-texto{
+    position: absolute;
+    width: 500px;
+    left: 340px;
+    top: 60px;
+}
